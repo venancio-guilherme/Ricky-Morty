@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_typing_uninitialized_variables
 
 import 'package:consumo_adviced_slip_dio/models/character.dart';
-import 'package:consumo_adviced_slip_dio/controller/get_data_repository.dart';
+import 'package:consumo_adviced_slip_dio/controller/get_data_controller.dart';
 import 'package:flutter/material.dart';
 
 class OnePage extends StatefulWidget {
